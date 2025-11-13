@@ -1,0 +1,867 @@
+{
+  "email_dna": {
+    "meta_data": {
+      "email_type": "welcome_onboarding",
+      "overall_effectiveness_score": 6.2,
+      "content_score": 7.5,
+      "visual_score": 5.0,
+      "analysis_timestamp": "2025-11-12T16:58:33.375636"
+    },
+    "raw_data": {
+      "original_email": {
+        "subject_line": "\u2601\ufe0f You\u2019re in! Welcome to the Community",
+        "sender": "On Community <newsfeed@on.com>",
+        "date": "Fri, 7 Nov 2025 16:28:00 +0000 (UTC)",
+        "full_body_text": "\u2601\ufe0f You\u2019re in! Welcome to the Community\nFrom: On Community <newsfeed@on.com>\nDate: Fri, 7 Nov 2025 16:28:00 +0000 (UTC)\n\u2601\ufe0f On\nEnjoy your unlocked benefits\n\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00a0 []()\nHey AI, thanks for joining us.\nWe\u2019re so pleased to have you as a freshly minted member of the team. Your new account includes lots of benefits to support your goals \u2013 whether you\u2019re a seasoned sportsperson, or just starting out. Make sure to complete your On profile for the full personalised experience.\nComplete your profile\nYour benefits...\nEarly and exclusive access to products\nFirst to know the news\nGet rewarded\nEasy order tracking and returns\n\u2026 And this is only the beginning. Keep an eye out for more exciting benefits as our On community grows.\n\u00a9 On 2025\nOn. Anytime. Anywhere.\nDownload the app\nMy account\nFacebook\nInstagram\nStrava\nTikTok\nX\nYouTube\nManage your preferences\nUnsubscribe\nYou are receiving this email because you have created an account and are now a member. As a member, you will receive emails specifically related to your membership account and benefits. If you wish to opt out, you may do so at any time by clicking here.\n*Benefits are only valid on on.com for On Community members who are logged in to their account. Deleting an account means losing existing benefits. See the full On Community Terms & Conditions and Privacy Policy.",
+        "raw_markdown": "# \u2601\ufe0f You\u2019re in! Welcome to the Community\n\n**From:** On Community <newsfeed@on.com>  \n**Date:** Fri, 7 Nov 2025 16:28:00 +0000 (UTC)\n\n---\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2601\ufe0f On\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnjoy your unlocked benefits\n\n\n \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u2007\u034f \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00ad \u00a0 []()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[\n\n](https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24tcnVubmluZy5jb20vYWNjb3VudC8_bmF2U3RhdGU9bG9naW4mYnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dBb0bbea2f)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n# \nHey AI, thanks for joining us.                                                      \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\nWe\u2019re so pleased to have you as a freshly minted member of the team. Your new account includes lots of benefits to support your goals \u2013 whether you\u2019re a seasoned sportsperson, or just starting out. Make sure to complete your On profile for the full personalised experience.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[\nComplete your profile\n](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2xvZ2luP25hdlN0YXRlPWxvZ2luJmJ4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dBa2668c69)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n## Your benefits...\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[\n\n](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dB16183b95)\n\n\n\n\n\n[Early and exclusive access to products](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dC16183b95)\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n[\n\n](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2FjY291bnQ_YnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dB19fee554)\n\n\n\n\n\n[First to know the news](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2FjY291bnQ_YnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dC19fee554)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[\n\n](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2xvZ2luP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dC1985dc2d)\n\n\n\n\n\n[Get rewarded](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2xvZ2luP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dD1985dc2d)\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n[\n\n](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dD16183b95)\n\n\n\n\n\n[Easy order tracking and returns](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dE16183b95)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2026 And this is only the beginning. Keep an eye out for more exciting benefits as our On community grows.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a9 On 2025\n\n\n\n\n\n\u00a0\n\n\n\nOn. Anytime. Anywhere.\n\n\n\n\n\n\n\n[Download the app](https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly9hcHAuYWRqdXN0LmNvbS8xbWM4NWUyYT9hZGdyb3VwPWVtYWlsJmJ4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dB7daf22b1)\n\n\n\n\n\n\n\n\n[My account](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2xvZ2luP25hdlN0YXRlPWxvZ2luJmJ4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dEa2668c69)\n\n\n\n\n\n\n\u00a0\n\n\n\n\n[Facebook](https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL29uP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dBf3cc43f9)\n\n\n\n\n\n\n\n\n[Instagram](https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9vbj9ieGlkPTY5MGUwZWZkZDQ5NzM0MDUxMDBlNjE3ZA/690e0efdd4973405100e617dB411a9752)\n\n\n\n\n\n\n\n\n[Strava](https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cuc3RyYXZhLmNvbS9jbHVicy9vbi0yMjYzODc_YnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dB0706d843)\n\n\n\n\n\n\n\n\n[TikTok](https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cudGlrdG9rLmNvbS9Ab25ydW5uaW5nP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dBa5a37ff5)\n\n\n\n\n\n\n\n\n[X](https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly94LmNvbS9vbl9ydW5uaW5nP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dBa07d7800)\n\n\n\n\n\n\n\n\n[YouTube](https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cueW91dHViZS5jb20vQE9uLVJ1bm5pbmc_YnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dBb5682962)\n\n\n\n\n\n\n\u00a0\n\n\n\n\n[Manage your preferences](https://link.on-running.com/manage/6qx/preference-center?email=mlaitesting2025@gmail.com)\n\n\n\n\n\n\n\n\n[Unsubscribe](https://link.on-running.com/oc/690e0efdd4973405100e617d690e1e1034ed9d5452011617/e7394dbb)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYou are receiving this email because you have created an account and are now a member. As a member, you will receive emails specifically related to your membership account and benefits. If you wish to opt out, you may do so at any time by clicking [here.](https://link.on-running.com/manage/6qx/preference-center?email=mlaitesting2025@gmail.com)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n*Benefits are only valid on [on.com](https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dB97d64f7c) for On Community members who are logged in to their account. Deleting an account means losing existing benefits. See the full On Community [Terms & Conditions](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Rlcm1zLWFuZC1jb25kaXRpb25zP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dBd1fa83a9) and [Privacy Policy](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3ByaXZhY3ktcG9saWN5P2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dB07c239ab).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n"
+      },
+      "extracted_links": [
+        {
+          "url": "https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24tcnVubmluZy5jb20vYWNjb3VudC8_bmF2U3RhdGU9bG9naW4mYnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dBb0bbea2f",
+          "anchor_text": "\n\n",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2xvZ2luP25hdlN0YXRlPWxvZ2luJmJ4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dBa2668c69",
+          "anchor_text": "\nComplete your profile\n",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dB16183b95",
+          "anchor_text": "\n\n",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dC16183b95",
+          "anchor_text": "Early and exclusive access to products",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2FjY291bnQ_YnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dB19fee554",
+          "anchor_text": "\n\n",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2FjY291bnQ_YnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dC19fee554",
+          "anchor_text": "First to know the news",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2xvZ2luP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dC1985dc2d",
+          "anchor_text": "\n\n",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2xvZ2luP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dD1985dc2d",
+          "anchor_text": "Get rewarded",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dD16183b95",
+          "anchor_text": "\n\n",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dE16183b95",
+          "anchor_text": "Easy order tracking and returns",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly9hcHAuYWRqdXN0LmNvbS8xbWM4NWUyYT9hZGdyb3VwPWVtYWlsJmJ4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dB7daf22b1",
+          "anchor_text": "Download the app",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2xvZ2luP25hdlN0YXRlPWxvZ2luJmJ4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dEa2668c69",
+          "anchor_text": "My account",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL29uP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dBf3cc43f9",
+          "anchor_text": "Facebook",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9vbj9ieGlkPTY5MGUwZWZkZDQ5NzM0MDUxMDBlNjE3ZA/690e0efdd4973405100e617dB411a9752",
+          "anchor_text": "Instagram",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cuc3RyYXZhLmNvbS9jbHVicy9vbi0yMjYzODc_YnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dB0706d843",
+          "anchor_text": "Strava",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cudGlrdG9rLmNvbS9Ab25ydW5uaW5nP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dBa5a37ff5",
+          "anchor_text": "TikTok",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly94LmNvbS9vbl9ydW5uaW5nP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dBa07d7800",
+          "anchor_text": "X",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cueW91dHViZS5jb20vQE9uLVJ1bm5pbmc_YnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dBb5682962",
+          "anchor_text": "YouTube",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on-running.com/manage/6qx/preference-center?email=mlaitesting2025@gmail.com",
+          "anchor_text": "Manage your preferences",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on-running.com/oc/690e0efdd4973405100e617d690e1e1034ed9d5452011617/e7394dbb",
+          "anchor_text": "Unsubscribe",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on-running.com/manage/6qx/preference-center?email=mlaitesting2025@gmail.com",
+          "anchor_text": "here.",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on-running.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dB97d64f7c",
+          "anchor_text": "on.com",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Rlcm1zLWFuZC1jb25kaXRpb25zP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dBd1fa83a9",
+          "anchor_text": "Terms & Conditions",
+          "link_type": "text_link",
+          "position": "body"
+        },
+        {
+          "url": "https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3ByaXZhY3ktcG9saWN5P2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dB07c239ab",
+          "anchor_text": "Privacy Policy",
+          "link_type": "text_link",
+          "position": "body"
+        }
+      ],
+      "image_references": [],
+      "content_sections": [
+        {
+          "section_type": "benefits",
+          "content": "[\n\n](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dB16183b95)\n\n\n\n\n\n[Early and exclusive access to products](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dC16183b95)\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n[\n\n](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2FjY291bnQ_YnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dB19fee554)\n\n\n\n\n\n[First to know the news](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2FjY291bnQ_YnhpZD02OTBlMGVmZGQ0OTczNDA1MTAwZTYxN2Q/690e0efdd4973405100e617dC19fee554)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[\n\n](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2xvZ2luP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dC1985dc2d)\n\n\n\n\n\n[Get rewarded](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL2xvZ2luP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dD1985dc2d)\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n[\n\n](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dD16183b95)\n\n\n\n\n\n[Easy order tracking and returns](https://link.on.com/click/690e1e1034ed9d5452011617/aHR0cHM6Ly93d3cub24uY29tL3Nob3AvbWVtYmVycy1leGNsdXNpdmVzP2J4aWQ9NjkwZTBlZmRkNDk3MzQwNTEwMGU2MTdk/690e0efdd4973405100e617dE16183b95)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u00a0\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2026 And this is only the beginning. Keep an eye out for more exciting benefits as our On community grows.",
+          "benefits_list": []
+        }
+      ],
+      "content_stats": {
+        "total_characters": 7995,
+        "total_words": 951,
+        "total_links": 24,
+        "total_images": 0,
+        "format_type": "markdown"
+      },
+      "image_descriptions": [
+        {
+          "filename": "image_5.jpg",
+          "visual_description": "The image shows three people in a gym setting. One person is in the foreground, walking past, while two others are in the background. One is sitting on a bench, and the other is performing an exercise with gymnastic rings.",
+          "people_details": "The person in the foreground appears to be a young adult female wearing a black sports bra and shorts, walking with a focused expression. In the background, one young adult male is sitting on a bench wearing a white tank top and blue shorts, looking contemplative. Another young adult female is exercising with gymnastic rings, wearing a blue sports bra and shorts.",
+          "text_in_image": "",
+          "objects_detected": [
+            "gymnastic rings",
+            "bench",
+            "sportswear"
+          ],
+          "scene_context": "indoor gym"
+        },
+        {
+          "filename": "image_3.jpg",
+          "visual_description": "A person is crouching, wearing a light beige outfit with a jacket and pants. The pants have a distinctive white and black stripe design. The person is wearing white sneakers. The background is a soft blue.",
+          "people_details": "The person appears to be an adult, gender not specified, wearing a light beige jacket and pants. The pose is crouched, with no visible facial expression.",
+          "text_in_image": "No text visible in the image",
+          "objects_detected": [
+            "sneakers",
+            "clothing"
+          ],
+          "scene_context": "studio"
+        },
+        {
+          "filename": "image_4.jpg",
+          "visual_description": "A group of people running on a street, possibly participating in a race or a marathon. The setting is urban with visible road markings and a bicycle lane.",
+          "people_details": "Young adults, mixed gender, wearing athletic clothing. They are in motion, running with focused expressions.",
+          "text_in_image": "ON",
+          "objects_detected": [
+            "smartphone",
+            "clothing",
+            "background_elements"
+          ],
+          "scene_context": "outdoor"
+        },
+        {
+          "filename": "image_1.jpg",
+          "visual_description": "A black background with a white logo in the center.",
+          "people_details": "No people present.",
+          "text_in_image": "No text visible.",
+          "objects_detected": [
+            "logo"
+          ],
+          "scene_context": "studio"
+        },
+        {
+          "filename": "image_2.jpg",
+          "visual_description": "Two people sitting on a city street, leaning against a building, laughing and clapping. They are wearing athletic clothing and sneakers.",
+          "people_details": "Two young adults, one male and one female. The male is wearing a white tank top and shorts, the female is wearing a black sports bra and shorts. Both are smiling and appear joyful.",
+          "text_in_image": "We're so happy you're here",
+          "objects_detected": [
+            "sneakers",
+            "athletic clothing",
+            "urban background"
+          ],
+          "scene_context": "outdoor, urban environment"
+        },
+        {
+          "filename": "image_6.jpg",
+          "visual_description": "A person is standing on a tennis court holding a tennis racket. The focus is on their legs and feet, wearing pink and white tennis shoes and white socks.",
+          "people_details": "Adult, gender not specified, wearing white shorts, holding a tennis racket, standing on a tennis court.",
+          "text_in_image": "ON COURT",
+          "objects_detected": [
+            "tennis racket",
+            "tennis shoes",
+            "socks"
+          ],
+          "scene_context": "outdoor"
+        }
+      ]
+    },
+    "content_dna": {
+      "subject_line_dna": {
+        "text": "You\u2019re in! Welcome to the Community",
+        "length": 33,
+        "emotional_triggers": [
+          "curiosity",
+          "desire"
+        ],
+        "power_words": [
+          "welcome",
+          "community"
+        ],
+        "personalization_level": "basic",
+        "urgency_indicators": [],
+        "predicted_open_rate": "high"
+      },
+      "content_structure_dna": {
+        "word_count": 200,
+        "paragraph_count": 4,
+        "opening_hook_type": "benefit",
+        "value_propositions": [
+          "unlocked benefits",
+          "support your goals",
+          "exclusive access"
+        ],
+        "social_proof_elements": [],
+        "scarcity_signals": [],
+        "closing_technique": "benefit"
+      },
+      "cta_dna": {
+        "primary_cta": {
+          "text": "Complete your profile",
+          "action_type": "signup",
+          "urgency_level": "medium",
+          "position": "middle"
+        },
+        "secondary_ctas": [
+          "Shop Now",
+          "Download the app"
+        ],
+        "cta_count": 3,
+        "cta_strategy": "multiple_options"
+      },
+      "psychological_triggers": {
+        "urgency_score": 5,
+        "scarcity_indicators": [],
+        "authority_markers": [],
+        "reciprocity_elements": [
+          "valuable_content"
+        ],
+        "social_proof_strength": "low"
+      },
+      "offer_dna": {
+        "discount_type": "none",
+        "discount_value": 0,
+        "offer_presentation": "highlight",
+        "bonus_items": [
+          "exclusive access"
+        ],
+        "guarantee_type": "satisfaction"
+      },
+      "brand_voice_dna": {
+        "tone": "friendly",
+        "personality_traits": [
+          "helpful",
+          "playful"
+        ],
+        "emotional_temperature": "warm",
+        "formality_level": "casual",
+        "reading_level": "middle_school"
+      }
+    },
+    "visual_dna": {
+      "individual_analyses": [
+        {
+          "filename": "image_5.jpg",
+          "raw_visual_description": {
+            "scene_description": "The image shows three people in a gym setting. One person is in the foreground, walking past, while two others are in the background. One is sitting on a bench, and the other is performing an exercise with gymnastic rings.",
+            "people_details": "The person in the foreground appears to be a young adult female wearing a black sports bra and shorts, walking with a focused expression. In the background, one young adult male is sitting on a bench wearing a white tank top and blue shorts, looking contemplative. Another young adult female is exercising with gymnastic rings, wearing a blue sports bra and shorts.",
+            "objects_present": [
+              "gymnastic rings",
+              "bench",
+              "sportswear"
+            ],
+            "text_in_image": "",
+            "colors_observed": [
+              "black",
+              "blue",
+              "white",
+              "gray"
+            ],
+            "setting_context": "indoor gym",
+            "mood_atmosphere": "energetic and focused"
+          },
+          "visual_elements": {
+            "image_type": "lifestyle",
+            "dominant_colors": [
+              "#FF6B35",
+              "#2E86AB",
+              "#F5F5F5"
+            ],
+            "color_psychology": [
+              "energetic",
+              "trustworthy",
+              "clean"
+            ],
+            "text_content": "",
+            "design_style": "modern",
+            "layout_pattern": "asymmetric"
+          },
+          "brand_dna": {
+            "professionalism_score": 8,
+            "brand_consistency": "high",
+            "visual_appeal": "excellent",
+            "target_demographic": "young_adults",
+            "brand_personality": [
+              "innovative",
+              "trustworthy",
+              "energetic"
+            ]
+          },
+          "marketing_psychology": {
+            "cta_visibility": "low",
+            "emotional_impact": "strong",
+            "attention_grabbing": "high",
+            "urgency_visual_cues": [],
+            "trust_signals": [],
+            "conversion_elements": [
+              "product_focus"
+            ]
+          },
+          "technical_analysis": {
+            "resolution": "high",
+            "mobile_optimization": true,
+            "composition_quality": "excellent",
+            "color_harmony": "excellent",
+            "text_readability": "low"
+          },
+          "competitive_insights": {
+            "innovation_level": "cutting_edge",
+            "industry_trends": [
+              "minimalism",
+              "bold_colors",
+              "mobile_first"
+            ],
+            "differentiation_factors": [
+              "unique_layout",
+              "color_scheme"
+            ]
+          },
+          "recommendations": [
+            "Consider adding a clear call-to-action to enhance conversion."
+          ]
+        },
+        {
+          "filename": "image_3.jpg",
+          "raw_visual_description": {
+            "scene_description": "A person is crouching, wearing a light beige outfit with a jacket and pants. The pants have a distinctive white and black stripe design. The person is wearing white sneakers. The background is a soft blue.",
+            "people_details": "The person appears to be an adult, gender not specified, wearing a light beige jacket and pants. The pose is crouched, with no visible facial expression.",
+            "objects_present": [
+              "sneakers",
+              "clothing"
+            ],
+            "text_in_image": "No text visible in the image",
+            "colors_observed": [
+              "beige",
+              "white",
+              "black",
+              "light blue"
+            ],
+            "setting_context": "studio",
+            "mood_atmosphere": "calm"
+          },
+          "visual_elements": {
+            "image_type": "lifestyle",
+            "dominant_colors": [
+              "#D3CBB8",
+              "#FFFFFF",
+              "#A9A9A9"
+            ],
+            "color_psychology": [
+              "calm",
+              "clean",
+              "neutral"
+            ],
+            "text_content": "No visible text or CTA",
+            "design_style": "minimalist",
+            "layout_pattern": "centered"
+          },
+          "brand_dna": {
+            "professionalism_score": 8,
+            "brand_consistency": "high",
+            "visual_appeal": "good",
+            "target_demographic": "young_adults",
+            "brand_personality": [
+              "innovative",
+              "minimalist",
+              "modern"
+            ]
+          },
+          "marketing_psychology": {
+            "cta_visibility": "low",
+            "emotional_impact": "moderate",
+            "attention_grabbing": "medium",
+            "urgency_visual_cues": [],
+            "trust_signals": [],
+            "conversion_elements": [
+              "product_focus"
+            ]
+          },
+          "technical_analysis": {
+            "resolution": "high",
+            "mobile_optimization": true,
+            "composition_quality": "excellent",
+            "color_harmony": "excellent",
+            "text_readability": "low"
+          },
+          "competitive_insights": {
+            "innovation_level": "standard",
+            "industry_trends": [
+              "minimalism",
+              "neutral colors",
+              "lifestyle imagery"
+            ],
+            "differentiation_factors": [
+              "unique stripe design",
+              "color scheme"
+            ]
+          },
+          "recommendations": [
+            "Include a clear CTA to enhance conversion",
+            "Add brand logo for better recognition"
+          ]
+        },
+        {
+          "filename": "image_4.jpg",
+          "raw_visual_description": {
+            "scene_description": "A group of people running on a street, possibly participating in a race or a marathon. The setting is urban with visible road markings and a bicycle lane.",
+            "people_details": "Young adults, mixed gender, wearing athletic clothing. They are in motion, running with focused expressions.",
+            "objects_present": [
+              "smartphone",
+              "clothing",
+              "background_elements"
+            ],
+            "text_in_image": "ON",
+            "colors_observed": [
+              "yellow",
+              "green",
+              "black",
+              "white"
+            ],
+            "setting_context": "outdoor",
+            "mood_atmosphere": "energetic"
+          },
+          "visual_elements": {
+            "image_type": "lifestyle",
+            "dominant_colors": [
+              "#FF6B35",
+              "#2E86AB",
+              "#F5F5F5"
+            ],
+            "color_psychology": [
+              "energetic",
+              "trustworthy",
+              "clean"
+            ],
+            "text_content": "ON",
+            "design_style": "modern",
+            "layout_pattern": "asymmetric"
+          },
+          "brand_dna": {
+            "professionalism_score": 8,
+            "brand_consistency": "high",
+            "visual_appeal": "excellent",
+            "target_demographic": "young_adults",
+            "brand_personality": [
+              "innovative",
+              "trustworthy",
+              "playful"
+            ]
+          },
+          "marketing_psychology": {
+            "cta_visibility": "low",
+            "emotional_impact": "strong",
+            "attention_grabbing": "high",
+            "urgency_visual_cues": [],
+            "trust_signals": [],
+            "conversion_elements": [
+              "product_focus"
+            ]
+          },
+          "technical_analysis": {
+            "resolution": "high",
+            "mobile_optimization": true,
+            "composition_quality": "excellent",
+            "color_harmony": "excellent",
+            "text_readability": "low"
+          },
+          "competitive_insights": {
+            "innovation_level": "cutting_edge",
+            "industry_trends": [
+              "minimalism",
+              "bold_colors",
+              "mobile_first"
+            ],
+            "differentiation_factors": [
+              "unique_layout",
+              "color_scheme",
+              "typography"
+            ]
+          },
+          "recommendations": [
+            "Increase text readability by adding more contrast or larger font size."
+          ]
+        },
+        {
+          "filename": "image_1.jpg",
+          "raw_visual_description": {
+            "scene_description": "A black background with a white logo in the center.",
+            "people_details": "No people present.",
+            "objects_present": [
+              "logo"
+            ],
+            "text_in_image": "No text visible.",
+            "colors_observed": [
+              "black",
+              "white"
+            ],
+            "setting_context": "studio",
+            "mood_atmosphere": "professional"
+          },
+          "visual_elements": {
+            "image_type": "logo",
+            "dominant_colors": [
+              "#000000",
+              "#FFFFFF"
+            ],
+            "color_psychology": [
+              "professional",
+              "clean"
+            ],
+            "text_content": "No text or CTA",
+            "design_style": "minimalist",
+            "layout_pattern": "centered"
+          },
+          "brand_dna": {
+            "professionalism_score": 9,
+            "brand_consistency": "high",
+            "visual_appeal": "good",
+            "target_demographic": "professionals",
+            "brand_personality": [
+              "trustworthy",
+              "professional"
+            ]
+          },
+          "marketing_psychology": {
+            "cta_visibility": "low",
+            "emotional_impact": "moderate",
+            "attention_grabbing": "medium",
+            "urgency_visual_cues": [],
+            "trust_signals": [],
+            "conversion_elements": []
+          },
+          "technical_analysis": {
+            "resolution": "high",
+            "mobile_optimization": true,
+            "composition_quality": "excellent",
+            "color_harmony": "excellent",
+            "text_readability": "N/A"
+          },
+          "competitive_insights": {
+            "innovation_level": "standard",
+            "industry_trends": [
+              "minimalism"
+            ],
+            "differentiation_factors": [
+              "clean design"
+            ]
+          },
+          "recommendations": [
+            "Consider adding a call-to-action for better engagement."
+          ]
+        },
+        {
+          "filename": "image_2.jpg",
+          "raw_visual_description": {
+            "scene_description": "Two people sitting on a city street, leaning against a building, laughing and clapping. They are wearing athletic clothing and sneakers.",
+            "people_details": "Two young adults, one male and one female. The male is wearing a white tank top and shorts, the female is wearing a black sports bra and shorts. Both are smiling and appear joyful.",
+            "objects_present": [
+              "sneakers",
+              "athletic clothing",
+              "urban background"
+            ],
+            "text_in_image": "We're so happy you're here",
+            "colors_observed": [
+              "black",
+              "white",
+              "gray",
+              "beige",
+              "green"
+            ],
+            "setting_context": "outdoor, urban environment",
+            "mood_atmosphere": "energetic and joyful"
+          },
+          "visual_elements": {
+            "image_type": "lifestyle",
+            "dominant_colors": [
+              "#FF6B35",
+              "#2E86AB",
+              "#F5F5F5"
+            ],
+            "color_psychology": [
+              "energetic",
+              "trustworthy",
+              "clean"
+            ],
+            "text_content": "We're so happy you're here",
+            "design_style": "modern",
+            "layout_pattern": "centered"
+          },
+          "brand_dna": {
+            "professionalism_score": 8,
+            "brand_consistency": "high",
+            "visual_appeal": "excellent",
+            "target_demographic": "young_adults",
+            "brand_personality": [
+              "innovative",
+              "trustworthy",
+              "playful"
+            ]
+          },
+          "marketing_psychology": {
+            "cta_visibility": "medium",
+            "emotional_impact": "strong",
+            "attention_grabbing": "high",
+            "urgency_visual_cues": [],
+            "trust_signals": [],
+            "conversion_elements": [
+              "lifestyle focus",
+              "emotional connection"
+            ]
+          },
+          "technical_analysis": {
+            "resolution": "high",
+            "mobile_optimization": true,
+            "composition_quality": "excellent",
+            "color_harmony": "excellent",
+            "text_readability": "high"
+          },
+          "competitive_insights": {
+            "innovation_level": "cutting_edge",
+            "industry_trends": [
+              "minimalism",
+              "bold_colors",
+              "mobile_first"
+            ],
+            "differentiation_factors": [
+              "unique_layout",
+              "color_scheme",
+              "typography"
+            ]
+          },
+          "recommendations": [
+            "Consider adding a clear call-to-action button for better conversion."
+          ]
+        },
+        {
+          "filename": "image_6.jpg",
+          "raw_visual_description": {
+            "scene_description": "A person is standing on a tennis court holding a tennis racket. The focus is on their legs and feet, wearing pink and white tennis shoes and white socks.",
+            "people_details": "Adult, gender not specified, wearing white shorts, holding a tennis racket, standing on a tennis court.",
+            "objects_present": [
+              "tennis racket",
+              "tennis shoes",
+              "socks"
+            ],
+            "text_in_image": "ON COURT",
+            "colors_observed": [
+              "pink",
+              "white",
+              "green",
+              "black"
+            ],
+            "setting_context": "outdoor",
+            "mood_atmosphere": "energetic"
+          },
+          "visual_elements": {
+            "image_type": "lifestyle",
+            "dominant_colors": [
+              "#FF6B35",
+              "#2E86AB",
+              "#F5F5F5"
+            ],
+            "color_psychology": [
+              "energetic",
+              "trustworthy",
+              "clean"
+            ],
+            "text_content": "ON COURT",
+            "design_style": "modern",
+            "layout_pattern": "centered"
+          },
+          "brand_dna": {
+            "professionalism_score": 8,
+            "brand_consistency": "high",
+            "visual_appeal": "excellent",
+            "target_demographic": "young_adults",
+            "brand_personality": [
+              "innovative",
+              "trustworthy",
+              "playful"
+            ]
+          },
+          "marketing_psychology": {
+            "cta_visibility": "medium",
+            "emotional_impact": "strong",
+            "attention_grabbing": "high",
+            "urgency_visual_cues": [],
+            "trust_signals": [],
+            "conversion_elements": [
+              "product_focus"
+            ]
+          },
+          "technical_analysis": {
+            "resolution": "high",
+            "mobile_optimization": true,
+            "composition_quality": "excellent",
+            "color_harmony": "excellent",
+            "text_readability": "high"
+          },
+          "competitive_insights": {
+            "innovation_level": "cutting_edge",
+            "industry_trends": [
+              "minimalism",
+              "bold_colors",
+              "mobile_first"
+            ],
+            "differentiation_factors": [
+              "unique_layout",
+              "color_scheme",
+              "typography"
+            ]
+          },
+          "recommendations": [
+            "Consider adding a clear call-to-action to enhance engagement."
+          ]
+        }
+      ],
+      "summary": {
+        "total_images": 6,
+        "image_types": [
+          "lifestyle",
+          "logo"
+        ],
+        "common_colors": [
+          "#D3CBB8",
+          "#000000",
+          "#A9A9A9",
+          "#FF6B35",
+          "#FFFFFF",
+          "#2E86AB",
+          "#F5F5F5"
+        ],
+        "avg_professionalism_score": 5.0
+      },
+      "overall_assessment": {
+        "visual_consistency": "medium",
+        "brand_strength": "weak",
+        "marketing_impact": "medium"
+      }
+    },
+    "competitive_intelligence": {
+      "strengths": [
+        "Professional presentation"
+      ],
+      "opportunities": [
+        "Optimize conversion elements"
+      ],
+      "competitive_advantages": [
+        "Clear communication"
+      ]
+    },
+    "actionable_recommendations": [
+      "Increase urgency and scarcity elements",
+      "Add secondary CTA options",
+      "Include customer testimonials and social proof",
+      "Enhance visual design quality"
+    ],
+    "replication_blueprint": {
+      "subject_line_formula": {
+        "structure": "You\u2019re in! Welcome to the Community",
+        "key_triggers": [
+          "curiosity",
+          "desire"
+        ],
+        "optimal_length": 33
+      },
+      "content_structure": {
+        "opening_hook": "benefit",
+        "cta_strategy": "multiple_options",
+        "closing_technique": "benefit"
+      },
+      "visual_formula": {
+        "color_palette": [
+          "#D3CBB8",
+          "#000000",
+          "#A9A9A9"
+        ],
+        "design_style": "modern",
+        "image_types": [
+          "lifestyle",
+          "logo"
+        ]
+      }
+    }
+  }
+}

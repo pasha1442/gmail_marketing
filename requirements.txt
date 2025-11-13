@@ -1,0 +1,12 @@
+python-dotenv==1.0.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+langchain-openai==0.2.8
+langgraph==0.2.45
+langchain-core==0.3.75
+langchain==0.3.27
+langchain-text-splitters==0.3.11
+langchain-google-genai==2.0.10
+langchain-community==0.3.11
+langsmith==0.1.147
+openai==1.54.3
